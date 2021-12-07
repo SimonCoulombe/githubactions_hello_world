@@ -23,6 +23,10 @@ jobs:
       - name: download csv and date_Added column
         run: |
           Rscript R/download_and_upload_to_git.R
+      - name: Install rnaturalearth for map in report
+        run: |
+          install.packages("rnaturalearth")
+        shell: Rscript {0}
       - name: Update report  (this code works, but not used)
         run: |
           Rscript -e 'rmarkdown::render("R/test_github_report.Rmd")'          
