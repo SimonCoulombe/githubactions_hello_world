@@ -20,7 +20,9 @@ library(kableExtra)
 library(mapview)
 library(rnaturalearth)
 source("../R/col_types_wells.R")
-
+message("install rnaturalearthhires")
+install.packages("rnaturalearthhires", repos = "http://packages.ropensci.org", type = "source")
+message("done install rnaturalearthhires")
 bc_yellow <- "#e3a82b"
 bc_blue <- "#234075"
 
