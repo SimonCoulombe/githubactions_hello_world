@@ -1,6 +1,6 @@
 ---
 title: "test"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
@@ -60,15 +60,7 @@ recent_wells <- wells  %>%
 
 
 recent_wells %>% 
-  tail(20) %>% 
-  knitr::kable(
-    caption = "Table showing 20 last  wells",
-    #col.names = colnames(palmerpenguins::penguins),
-    #digits = c(0,0,1,1,1,0,0,0)
-  )  %>%
-  kableExtra::kable_styling(bootstrap_options = c("striped", "hover")) %>% # striped adds grey background (Defined in the css) to each second row.  hover adds an orange background when hovering above a row (defined in the css) 
-  kableExtra::row_spec(0, background = bc_blue, color = "#fff") # first row is white on cooperators  blue
-
+  tail(20)
 ```
 
 
