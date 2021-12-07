@@ -1,8 +1,9 @@
+# this is a minimum working example I keep around for sanity checks...
+# today it uses my docker image at morglum/monrstudio
 on: 
   push:  
     paths: 
       - .github/workflows/mwe.yaml
-
 jobs:
   job1:
     runs-on: ubuntu-latest
