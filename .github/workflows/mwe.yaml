@@ -1,0 +1,22 @@
+on: 
+  push:  
+    paths: 
+      - .github/workflows/mwe.yaml
+
+jobs:
+  job1:
+    runs-on: ubuntu-latest
+    container: 
+      image: morglum/monrstudio
+      #options: -v /__w/gwells_geocode_and_archive_data/gwells_geocode_and_archive_data/prout:/GWELLS_LocationQA/:rw
+    steps:
+      - uses: actions/checkout@v2
+      - name: run ls
+        run: 
+          ls
+      - name: run ls /*
+        run: 
+          ls /*          
+      - name: where am i?
+        run:  
+          pwd
