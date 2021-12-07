@@ -1,7 +1,6 @@
 library(dplyr)
 library(readr)
 library(janitor)
-library(reticulate)
 source("R/col_types_wells.R")
 
 
