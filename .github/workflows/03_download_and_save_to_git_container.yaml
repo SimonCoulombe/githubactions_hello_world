@@ -6,7 +6,9 @@
 on: 
   push:
     paths : 
-      - .github/workflows/download_and_save_to_git_container.yaml
+      - .github/workflows/03_download_and_save_to_git_container.yaml
+  schedule:
+    - cron: "0 23 * * *"      
 jobs:
   job1:
     runs-on: ubuntu-latest

@@ -2,8 +2,8 @@
 # il sauvegarde plutôt le fichier dans le repo avec un git push
 on: 
   push:
-  schedule:
-    - cron: "0 23 * * *"
+    paths:
+      - .github/workflows/02_download_and_save_to_git.yaml
 jobs:
   job1:
     runs-on: ubuntu-latest
