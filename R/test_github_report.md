@@ -126,26 +126,26 @@ recent_wells %>%
     ## # A tibble: 20 × 114
     ##    well_tag_number identification_plate_number well_identifica… well_status_code
     ##              <dbl>                       <dbl> <chr>            <chr>           
-    ##  1          125144                       50244 "4\" btoc"       NEW             
-    ##  2          125145                          NA  <NA>            NEW             
-    ##  3          125146                          NA  <NA>            NEW             
-    ##  4          125147                       50235 "4\" btoc"       NEW             
-    ##  5          125148                       50238 "not provided"   NEW             
-    ##  6          125149                       50241 "4\" btoc"       NEW             
-    ##  7          125150                       50239 "4\" btoc"       NEW             
-    ##  8          125151                       50246 "4\" btoc"       NEW             
-    ##  9          125152                       48979 "4\" btoc"       NEW             
-    ## 10          125153                          NA  <NA>            NEW             
-    ## 11          125154                       50237 "4\" btoc"       NEW             
-    ## 12          125155                       48981 "5\" btoc"       NEW             
-    ## 13          125156                       50245 "not provided"   NEW             
-    ## 14          125157                          NA  <NA>            NEW             
-    ## 15          125158                       50242 "4\" btoc"       NEW             
-    ## 16          125159                          NA  <NA>            NEW             
-    ## 17          125160                          NA  <NA>            NEW             
-    ## 18          125161                          NA  <NA>            NEW             
-    ## 19          125162                          NA  <NA>            NEW             
-    ## 20          125163                          NA  <NA>            NEW             
+    ##  1          125171                       50240 "not provided"   NEW             
+    ##  2          125172                       48977 "4\" btoc"       NEW             
+    ##  3          125173                       48976 "5\" btoc"       NEW             
+    ##  4          125174                       50226 "on casing"      NEW             
+    ##  5          125175                          NA  <NA>            NEW             
+    ##  6          125176                       48736 "not provided"   NEW             
+    ##  7          125177                       50233 "not provided"   NEW             
+    ##  8          125178                       50232 "on casing"      NEW             
+    ##  9          125179                       50229 "on casing"      NEW             
+    ## 10          125180                       48733 "on casing"      NEW             
+    ## 11          125181                       50234 "on casing"      NEW             
+    ## 12          125182                       50228 "on casing"      NEW             
+    ## 13          125183                       50227 "on casing"      NEW             
+    ## 14          125184                          NA  <NA>            NEW             
+    ## 15          125185                       48734 "on casing"      NEW             
+    ## 16          125186                          NA  <NA>            CLOSURE         
+    ## 17          125187                       67157 "Stickup"        NEW             
+    ## 18          125188                       67158 "Stickup"        NEW             
+    ## 19          125189                       67159 "Stickup"        NEW             
+    ## 20          125190                       67160 "Stickup"        NEW             
     ## # … with 110 more variables: well_class_code <chr>, well_subclass <chr>,
     ## #   licenced_status_code <chr>, intended_water_use_code <chr>,
     ## #   observation_well_number <chr>, obs_well_status_code <chr>,
