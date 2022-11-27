@@ -126,26 +126,26 @@ recent_wells %>%
     ## # A tibble: 20 × 114
     ##    well_tag_number identification_plate_number well_identifica… well_status_code
     ##              <dbl>                       <dbl> <chr>            <chr>           
-    ##  1          127070                          NA <NA>             CLOSURE         
-    ##  2          127071                       53057 <NA>             NEW             
-    ##  3          127072                       53059 Casing           NEW             
-    ##  4          127073                       19440 Top part of well NEW             
-    ##  5          127074                          NA <NA>             NEW             
-    ##  6          127075                       68549 <NA>             NEW             
-    ##  7          127076                          NA <NA>             NEW             
-    ##  8          127077                       67858 On well casing   NEW             
-    ##  9          127078                       67856 On well casing   NEW             
-    ## 10          127079                       67857 On well casing   NEW             
-    ## 11          127080                       53061 Casing           NEW             
-    ## 12          127081                       53060 Casing           NEW             
-    ## 13          127082                       45725 SIDE OF CASING   NEW             
-    ## 14          127083                       65425 SIDE OF CASING   NEW             
-    ## 15          127084                       65404 SIDE OF CASING   NEW             
-    ## 16          127085                       65414 SIDE OF CASING   NEW             
-    ## 17          127086                       65415 SIDE OF CASING   NEW             
-    ## 18          127087                       65409 SIDE OF CASING   NEW             
-    ## 19          127088                       69426 Side of casing   NEW             
-    ## 20          127089                       63745 casing           NEW             
+    ##  1          127071                       53057 <NA>             NEW             
+    ##  2          127072                       53059 Casing           NEW             
+    ##  3          127073                       19440 Top part of well NEW             
+    ##  4          127074                          NA <NA>             NEW             
+    ##  5          127075                       68549 <NA>             NEW             
+    ##  6          127076                          NA <NA>             NEW             
+    ##  7          127077                       67858 On well casing   NEW             
+    ##  8          127078                       67856 On well casing   NEW             
+    ##  9          127079                       67857 On well casing   NEW             
+    ## 10          127080                       53061 Casing           NEW             
+    ## 11          127081                       53060 Casing           NEW             
+    ## 12          127082                       45725 SIDE OF CASING   NEW             
+    ## 13          127083                       65425 SIDE OF CASING   NEW             
+    ## 14          127084                       65404 SIDE OF CASING   NEW             
+    ## 15          127085                       65414 SIDE OF CASING   NEW             
+    ## 16          127086                       65415 SIDE OF CASING   NEW             
+    ## 17          127087                       65409 SIDE OF CASING   NEW             
+    ## 18          127088                       69426 Side of casing   NEW             
+    ## 19          127089                       63745 casing           NEW             
+    ## 20          127090                       45050 Side             NEW             
     ## # … with 110 more variables: well_class_code <chr>, well_subclass <chr>,
     ## #   licenced_status_code <chr>, intended_water_use_code <chr>,
     ## #   observation_well_number <chr>, obs_well_status_code <chr>,
