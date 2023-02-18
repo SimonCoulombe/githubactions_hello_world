@@ -126,26 +126,26 @@ recent_wells %>%
     ## # A tibble: 20 × 114
     ##    well_tag_number identification_plate_number well_identifica… well_status_code
     ##              <dbl>                       <dbl> <chr>            <chr>           
-    ##  1          127506                       17252 <NA>             NEW             
-    ##  2          127507                       68183 SIDE OF CASING   NEW             
-    ##  3          127508                       68181 SIDE OF CASING   NEW             
-    ##  4          127509                       68178 SIDE OF CASING   NEW             
-    ##  5          127510                       65214 Side of casing   NEW             
-    ##  6          127511                       68816 <NA>             NEW             
-    ##  7          127512                       15817 <NA>             NEW             
-    ##  8          127513                          NA <NA>             NEW             
-    ##  9          127514                          NA <NA>             NEW             
-    ## 10          127515                          NA <NA>             NEW             
-    ## 11          127516                          NA <NA>             NEW             
-    ## 12          127517                       17929 Not Provided     NEW             
-    ## 13          127518                       45437 <NA>             ALTERATION      
-    ## 14          127519                       65837 On well casing   NEW             
-    ## 15          127520                       65838 On well casing   NEW             
-    ## 16          127521                       68905 On well casing   NEW             
-    ## 17          127522                       12705 pump house wall… NEW             
-    ## 18          127523                       65833 On well casing   NEW             
-    ## 19          127524                          NA <NA>             NEW             
-    ## 20          127525                       65814 On well casing   NEW             
+    ##  1          127509                       68178 SIDE OF CASING   NEW             
+    ##  2          127510                       65214 Side of casing   NEW             
+    ##  3          127511                       68816 <NA>             NEW             
+    ##  4          127512                       15817 <NA>             NEW             
+    ##  5          127513                          NA <NA>             NEW             
+    ##  6          127514                          NA <NA>             NEW             
+    ##  7          127515                          NA <NA>             NEW             
+    ##  8          127516                          NA <NA>             NEW             
+    ##  9          127517                       17929 Not Provided     NEW             
+    ## 10          127518                       45437 <NA>             ALTERATION      
+    ## 11          127519                       65837 On well casing   NEW             
+    ## 12          127520                       65838 On well casing   NEW             
+    ## 13          127521                       68905 On well casing   NEW             
+    ## 14          127522                       12705 pump house wall… NEW             
+    ## 15          127523                       65833 On well casing   NEW             
+    ## 16          127524                          NA <NA>             NEW             
+    ## 17          127525                       65814 On well casing   NEW             
+    ## 18          127526                       70266 STRAPPED TO CAS… NEW             
+    ## 19          127527                       70267 STRAPPED TO CAS… NEW             
+    ## 20          127528                       64292 STRAPPED TO CAS… NEW             
     ## # … with 110 more variables: well_class_code <chr>, well_subclass <chr>,
     ## #   licenced_status_code <chr>, intended_water_use_code <chr>,
     ## #   observation_well_number <chr>, obs_well_status_code <chr>,
