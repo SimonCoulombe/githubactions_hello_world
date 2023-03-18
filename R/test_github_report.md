@@ -126,26 +126,26 @@ recent_wells %>%
     ## # A tibble: 20 × 114
     ##    well_tag_number identification_plate_number well_identifica… well_status_code
     ##              <dbl>                       <dbl> <chr>            <chr>           
-    ##  1          127762                       66853 "CASING"         NEW             
-    ##  2          127763                       63738 "CASING"         NEW             
-    ##  3          127765                       60316 "casing"         NEW             
-    ##  4          127766                       63020  <NA>            NEW             
-    ##  5          127767                       46006 "casing"         NEW             
-    ##  6          127768                          NA "Not Provided"   NEW             
-    ##  7          127769                       69255 "CASING"         NEW             
-    ##  8          127770                       67821 "CASING"         NEW             
-    ##  9          127771                       69252 "CASING"         NEW             
-    ## 10          127772                          NA "Not Provided"   NEW             
-    ## 11          127773                       53064 "Casing"         NEW             
-    ## 12          127774                       88556  <NA>            ALTERATION      
-    ## 13          127775                          NA "Not Provided"   NEW             
-    ## 14          127776                          NA "Not Provided"   NEW             
-    ## 15          127777                          NA  <NA>            NEW             
-    ## 16          127778                          NA "Not Provided"   NEW             
-    ## 17          127779                          NA "Not Provided"   NEW             
-    ## 18          127780                       48984 "4\" btoc"       NEW             
-    ## 19          127781                       48992 "4\" btoc"       NEW             
-    ## 20          127782                       48990 "4\" btoc"       NEW             
+    ##  1          127773                       53064 "Casing"         NEW             
+    ##  2          127774                       88556  <NA>            ALTERATION      
+    ##  3          127775                          NA "Not Provided"   NEW             
+    ##  4          127776                          NA "Not Provided"   NEW             
+    ##  5          127777                          NA  <NA>            NEW             
+    ##  6          127778                          NA "Not Provided"   NEW             
+    ##  7          127779                          NA "Not Provided"   NEW             
+    ##  8          127780                       48984 "4\" btoc"       NEW             
+    ##  9          127781                       48992 "4\" btoc"       NEW             
+    ## 10          127782                       48990 "4\" btoc"       NEW             
+    ## 11          127784                          NA "Not Provided"   NEW             
+    ## 12          127785                       64689 "4\" btoc"       NEW             
+    ## 13          127786                       48986 "4\" btoc"       NEW             
+    ## 14          127787                       48985 "4\" btoc"       NEW             
+    ## 15          127788                       48989 "4\" btoc"       NEW             
+    ## 16          127789                       48997 "4\" btoc"       NEW             
+    ## 17          127790                       64699 "4\" btoc"       NEW             
+    ## 18          127791                       64696 "4\" btoc"       NEW             
+    ## 19          127792                       48993 "4\" btoc"       NEW             
+    ## 20          127793                       48996  <NA>            NEW             
     ## # … with 110 more variables: well_class_code <chr>, well_subclass <chr>,
     ## #   licenced_status_code <chr>, intended_water_use_code <chr>,
     ## #   observation_well_number <chr>, obs_well_status_code <chr>,
