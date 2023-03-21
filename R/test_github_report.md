@@ -126,26 +126,26 @@ recent_wells %>%
     ## # A tibble: 20 × 114
     ##    well_tag_number identification_plate_number well_identifica… well_status_code
     ##              <dbl>                       <dbl> <chr>            <chr>           
-    ##  1          127775                          NA "Not Provided"   NEW             
-    ##  2          127776                          NA "Not Provided"   NEW             
-    ##  3          127777                          NA  <NA>            NEW             
-    ##  4          127778                          NA "Not Provided"   NEW             
-    ##  5          127779                          NA "Not Provided"   NEW             
-    ##  6          127780                       48984 "4\" btoc"       NEW             
-    ##  7          127781                       48992 "4\" btoc"       NEW             
-    ##  8          127782                       48990 "4\" btoc"       NEW             
-    ##  9          127784                          NA "Not Provided"   NEW             
-    ## 10          127785                       64689 "4\" btoc"       NEW             
-    ## 11          127786                       48986 "4\" btoc"       NEW             
-    ## 12          127787                       48985 "4\" btoc"       NEW             
-    ## 13          127788                       48989 "4\" btoc"       NEW             
-    ## 14          127789                       48997 "4\" btoc"       NEW             
-    ## 15          127790                       64699 "4\" btoc"       NEW             
-    ## 16          127791                       64696 "4\" btoc"       NEW             
-    ## 17          127792                       48993 "4\" btoc"       NEW             
-    ## 18          127793                       48996  <NA>            NEW             
-    ## 19          127794                          NA  <NA>            CLOSURE         
-    ## 20          127795                          NA  <NA>            CLOSURE         
+    ##  1          127779                          NA "Not Provided"   NEW             
+    ##  2          127780                       48984 "4\" btoc"       NEW             
+    ##  3          127781                       48992 "4\" btoc"       NEW             
+    ##  4          127782                       48990 "4\" btoc"       NEW             
+    ##  5          127784                          NA "Not Provided"   NEW             
+    ##  6          127785                       64689 "4\" btoc"       NEW             
+    ##  7          127786                       48986 "4\" btoc"       NEW             
+    ##  8          127787                       48985 "4\" btoc"       NEW             
+    ##  9          127788                       48989 "4\" btoc"       NEW             
+    ## 10          127789                       48997 "4\" btoc"       NEW             
+    ## 11          127790                       64699 "4\" btoc"       NEW             
+    ## 12          127791                       64696 "4\" btoc"       NEW             
+    ## 13          127792                       48993 "4\" btoc"       NEW             
+    ## 14          127793                       48996  <NA>            NEW             
+    ## 15          127794                          NA  <NA>            CLOSURE         
+    ## 16          127795                          NA  <NA>            CLOSURE         
+    ## 17          127796                          NA  <NA>            CLOSURE         
+    ## 18          127797                          NA  <NA>            NEW             
+    ## 19          127798                       64698  <NA>            NEW             
+    ## 20          127799                       64697 "4\" btoc"       NEW             
     ## # … with 110 more variables: well_class_code <chr>, well_subclass <chr>,
     ## #   licenced_status_code <chr>, intended_water_use_code <chr>,
     ## #   observation_well_number <chr>, obs_well_status_code <chr>,
