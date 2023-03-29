@@ -126,26 +126,26 @@ recent_wells %>%
     ## # A tibble: 20 × 114
     ##    well_tag_number identification_plate_number well_identifica… well_status_code
     ##              <dbl>                       <dbl> <chr>            <chr>           
-    ##  1          127901                       48719 "4\" btoc"       NEW             
-    ##  2          127902                       48749 "4\" btoc"       NEW             
-    ##  3          127903                       48724 "4\" btoc"       NEW             
-    ##  4          127904                       48728 "4\" btoc"       NEW             
-    ##  5          127905                       48721 "4\" btoc"       NEW             
-    ##  6          127906                       48729 "4\" btoc"       NEW             
-    ##  7          127907                       65452 "stick-up"       NEW             
-    ##  8          127908                       67293 "stick-up"       NEW             
-    ##  9          127909                       67298 "stick-up"       NEW             
-    ## 10          127910                       68914 "On well casing" NEW             
-    ## 11          127911                       67299 "stick-up"       NEW             
-    ## 12          127912                       67292 "stick-up"       NEW             
-    ## 13          127913                       65451 "stick-up"       NEW             
-    ## 14          127914                       65456 "stick-up"       NEW             
-    ## 15          127915                       65460 "stick-up"       NEW             
-    ## 16          127916                       68918 "On well casing" NEW             
-    ## 17          127917                       65453 "stick-up"       NEW             
-    ## 18          127918                       67291 "stick-up"       NEW             
-    ## 19          127919                       68944 "On well casing" NEW             
-    ## 20          127920                       65841 "On well casing" NEW             
+    ##  1          127913                       65451 stick-up         NEW             
+    ##  2          127914                       65456 stick-up         NEW             
+    ##  3          127915                       65460 stick-up         NEW             
+    ##  4          127916                       68918 On well casing   NEW             
+    ##  5          127917                       65453 stick-up         NEW             
+    ##  6          127918                       67291 stick-up         NEW             
+    ##  7          127919                       68944 On well casing   NEW             
+    ##  8          127920                       65841 On well casing   NEW             
+    ##  9          127921                       63239 <NA>             NEW             
+    ## 10          127922                       67289 stick-up         NEW             
+    ## 11          127923                       67288 stick-up         NEW             
+    ## 12          127924                       67285 stick-up         NEW             
+    ## 13          127925                       67283 stick-up         NEW             
+    ## 14          127926                       67284 stick-up         NEW             
+    ## 15          127927                       67287 stick-up         NEW             
+    ## 16          127928                       67290 stick-up         NEW             
+    ## 17          127929                       65458 stick-up         NEW             
+    ## 18          127930                       65455 stick-up         NEW             
+    ## 19          127931                       25789 casing           NEW             
+    ## 20          127932                       67872 On well casing   NEW             
     ## # … with 110 more variables: well_class_code <chr>, well_subclass <chr>,
     ## #   licenced_status_code <chr>, intended_water_use_code <chr>,
     ## #   observation_well_number <chr>, obs_well_status_code <chr>,
