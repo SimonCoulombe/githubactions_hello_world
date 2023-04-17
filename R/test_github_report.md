@@ -123,7 +123,7 @@ recent_wells %>%
   tail(20)
 ```
 
-    ## # A tibble: 13 × 114
+    ## # A tibble: 14 × 114
     ##    well_tag_number identification_plate_number well_identifica… well_status_code
     ##              <dbl>                       <dbl> <chr>            <chr>           
     ##  1          127981                       53069 Casing           NEW             
@@ -139,6 +139,7 @@ recent_wells %>%
     ## 11          127993                       68182 SIDE OF CASING   NEW             
     ## 12          127994                          NA <NA>             NEW             
     ## 13          127995                          NA <NA>             NEW             
+    ## 14          127996                       64153 casing           NEW             
     ## # … with 110 more variables: well_class_code <chr>, well_subclass <chr>,
     ## #   licenced_status_code <chr>, intended_water_use_code <chr>,
     ## #   observation_well_number <chr>, obs_well_status_code <chr>,
