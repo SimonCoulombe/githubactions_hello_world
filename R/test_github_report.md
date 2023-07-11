@@ -131,26 +131,26 @@ recent_wells %>%
     ## # A tibble: 20 × 114
     ##    well_tag_number identification_plate_number well_identifica… well_status_code
     ##              <dbl>                       <dbl> <chr>            <chr>           
-    ##  1          128280                          NA  <NA>            NEW             
-    ##  2          128281                          NA  <NA>            NEW             
-    ##  3          128282                       65759 "side casing"    NEW             
-    ##  4          128283                       65760 "side casing"    NEW             
-    ##  5          128284                       68757 "Stickup"        NEW             
-    ##  6          128285                       61777 "not Provided"   NEW             
-    ##  7          128286                       61796 "not Provided"   NEW             
-    ##  8          128287                          NA  <NA>            NEW             
-    ##  9          128288                          NA  <NA>            NEW             
-    ## 10          128289                          NA  <NA>            NEW             
-    ## 11          128290                       69998 "casing"         CLOSURE         
-    ## 12          128291                          NA  <NA>            NEW             
-    ## 13          128292                       63996 "6\" below top … NEW             
-    ## 14          128293                       69162 "STRAPPED TO CA… NEW             
-    ## 15          128294                          NA "Not Provided"   NEW             
-    ## 16          128295                       66367  <NA>            NEW             
-    ## 17          128296                       66366 "casing"         NEW             
-    ## 18          128297                       69273 "casing"         NEW             
-    ## 19          128298                       69272 "casing"         NEW             
-    ## 20          128299                          NA  <NA>            CLOSURE         
+    ##  1          128282                       65759 "side casing"    NEW             
+    ##  2          128283                       65760 "side casing"    NEW             
+    ##  3          128284                       68757 "Stickup"        NEW             
+    ##  4          128285                       61777 "not Provided"   NEW             
+    ##  5          128286                       61796 "not Provided"   NEW             
+    ##  6          128287                          NA  <NA>            NEW             
+    ##  7          128288                          NA  <NA>            NEW             
+    ##  8          128289                          NA  <NA>            NEW             
+    ##  9          128290                       69998 "casing"         CLOSURE         
+    ## 10          128291                          NA  <NA>            NEW             
+    ## 11          128292                       63996 "6\" below top … NEW             
+    ## 12          128293                       69162 "STRAPPED TO CA… NEW             
+    ## 13          128294                          NA "Not Provided"   NEW             
+    ## 14          128295                       66367  <NA>            NEW             
+    ## 15          128296                       66366 "casing"         NEW             
+    ## 16          128297                       69273 "casing"         NEW             
+    ## 17          128298                       69272 "casing"         NEW             
+    ## 18          128299                          NA  <NA>            CLOSURE         
+    ## 19          128300                       47190 "to the 6\" wel… NEW             
+    ## 20          128301                       64746 "Casing"         NEW             
     ## # … with 110 more variables: well_class_code <chr>, well_subclass <chr>,
     ## #   licenced_status_code <chr>, intended_water_use_code <chr>,
     ## #   observation_well_number <chr>, obs_well_status_code <chr>,
