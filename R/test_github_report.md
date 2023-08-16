@@ -131,26 +131,26 @@ recent_wells %>%
     ## # A tibble: 20 × 114
     ##    well_tag_number identification_plate_number well_identifica… well_status_code
     ##              <dbl>                       <dbl> <chr>            <chr>           
-    ##  1          128374                       68156 SIDE OF CASING   NEW             
-    ##  2          128375                       53023 Casing           NEW             
-    ##  3          128376                       68452 Casing           NEW             
-    ##  4          128377                       68464 Casing           NEW             
-    ##  5          128378                       66708 casing           NEW             
-    ##  6          128379                       64385 casing           NEW             
-    ##  7          128380                       28556 Clamped to casi… NEW             
-    ##  8          128381                       68776 Stickup          NEW             
-    ##  9          128382                       68777 Stickup          NEW             
-    ## 10          128383                       65295 STRAPPED TO CAS… NEW             
-    ## 11          128386                       45455 Contact Owner    CLOSURE         
-    ## 12          128387                       45435 Contact Owner    NEW             
-    ## 13          128388                       45442 Contact Owner    NEW             
-    ## 14          128389                       45438 Contact Owner    NEW             
-    ## 15          128390                       65279 STRAPPED TO CAS… NEW             
-    ## 16          128391                       12588 casing           CLOSURE         
-    ## 17          128392                       63464 On well casing   CLOSURE         
-    ## 18          128393                       15787 Side casing      NEW             
-    ## 19          128395                       69300 Not Provided     NEW             
-    ## 20          128397                          NA <NA>             NEW             
+    ##  1          128381                       68776 Stickup          NEW             
+    ##  2          128382                       68777 Stickup          NEW             
+    ##  3          128383                       65295 STRAPPED TO CAS… NEW             
+    ##  4          128386                       45455 Contact Owner    CLOSURE         
+    ##  5          128387                       45435 Contact Owner    NEW             
+    ##  6          128388                       45442 Contact Owner    NEW             
+    ##  7          128389                       45438 Contact Owner    NEW             
+    ##  8          128390                       65279 STRAPPED TO CAS… NEW             
+    ##  9          128391                       12588 casing           CLOSURE         
+    ## 10          128392                       63464 On well casing   CLOSURE         
+    ## 11          128393                       15787 Side casing      NEW             
+    ## 12          128395                       69300 Not Provided     NEW             
+    ## 13          128397                          NA <NA>             NEW             
+    ## 14          128399                       68778 Sitckup          NEW             
+    ## 15          128400                       28448 <NA>             NEW             
+    ## 16          128401                       69166 STRAPPED TO CAS… NEW             
+    ## 17          128402                          NA <NA>             NEW             
+    ## 18          128403                       29437 clamped to casi… NEW             
+    ## 19          128404                       69167 STRAPPED TO CAS… NEW             
+    ## 20          128405                       68779 Stickup          NEW             
     ## # … with 110 more variables: well_class_code <chr>, well_subclass <chr>,
     ## #   licenced_status_code <chr>, intended_water_use_code <chr>,
     ## #   observation_well_number <chr>, obs_well_status_code <chr>,
