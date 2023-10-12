@@ -143,14 +143,14 @@ recent_wells %>%
     ## 10          128645                          NA <NA>             NEW             
     ## 11          128646                          NA <NA>             NEW             
     ## 12          128647                       64258 STRAPPED TO CAS… NEW             
-    ## 13          128648                       65540 STRAPPED TO CAS… NEW             
-    ## 14          128649                       48598 <NA>             NEW             
-    ## 15          128650                       68793 Stickup          NEW             
-    ## 16          128651                       68794 Stickup          NEW             
-    ## 17          128652                          NA <NA>             NEW             
-    ## 18          128653                          NA <NA>             NEW             
-    ## 19          128654                          NA <NA>             NEW             
-    ## 20          128655                       68841 <NA>             NEW             
+    ## 13          128649                       48598 <NA>             NEW             
+    ## 14          128650                       68793 Stickup          NEW             
+    ## 15          128651                       68794 Stickup          NEW             
+    ## 16          128652                          NA <NA>             NEW             
+    ## 17          128653                          NA <NA>             NEW             
+    ## 18          128654                          NA <NA>             NEW             
+    ## 19          128655                       68841 <NA>             NEW             
+    ## 20          128656                       64159 casing           NEW             
     ## # … with 110 more variables: well_class_code <chr>, well_subclass <chr>,
     ## #   licenced_status_code <chr>, intended_water_use_code <chr>,
     ## #   observation_well_number <chr>, obs_well_status_code <chr>,
