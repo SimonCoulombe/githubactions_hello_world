@@ -131,26 +131,26 @@ recent_wells %>%
     ## # A tibble: 20 × 114
     ##    well_tag_number identification_plate_number well_identifica… well_status_code
     ##              <dbl>                       <dbl> <chr>            <chr>           
-    ##  1          128799                       70567 CASING STICK UP  NEW             
-    ##  2          128800                       70582 CASING STICK UP  NEW             
-    ##  3          128801                       70453 CASING STICK UP  NEW             
-    ##  4          128802                       70562 CASING STICK UP  NEW             
-    ##  5          128803                       70558 CASING STICK UP  NEW             
-    ##  6          128804                       70561 CASING STICK UP  NEW             
-    ##  7          128806                       67512 casing           NEW             
-    ##  8          128807                       69994 casing           NEW             
-    ##  9          128808                       69986 casing           NEW             
-    ## 10          128809                          NA <NA>             NEW             
-    ## 11          128810                       69692 casing           NEW             
-    ## 12          128811                       65381 <NA>             NEW             
-    ## 13          128812                       66501 <NA>             NEW             
-    ## 14          128813                       62622 <NA>             NEW             
-    ## 15          128814                       62623 <NA>             NEW             
-    ## 16          128815                       62624 <NA>             NEW             
-    ## 17          128816                       49836 <NA>             NEW             
-    ## 18          128817                          NA <NA>             NEW             
-    ## 19          128818                       28569 well casing      NEW             
-    ## 20          128819                       70286 STRAPPED TO CAS… NEW             
+    ##  1          128800                       70582 CASING STICK UP  NEW             
+    ##  2          128801                       70453 CASING STICK UP  NEW             
+    ##  3          128802                       70562 CASING STICK UP  NEW             
+    ##  4          128803                       70558 CASING STICK UP  NEW             
+    ##  5          128804                       70561 CASING STICK UP  NEW             
+    ##  6          128806                       67512 casing           NEW             
+    ##  7          128807                       69994 casing           NEW             
+    ##  8          128808                       69986 casing           NEW             
+    ##  9          128809                          NA <NA>             NEW             
+    ## 10          128810                       69692 casing           NEW             
+    ## 11          128811                       65381 <NA>             NEW             
+    ## 12          128812                       66501 <NA>             NEW             
+    ## 13          128813                       62622 <NA>             NEW             
+    ## 14          128814                       62623 <NA>             NEW             
+    ## 15          128815                       62624 <NA>             NEW             
+    ## 16          128816                       49836 <NA>             NEW             
+    ## 17          128817                          NA <NA>             NEW             
+    ## 18          128818                       28569 well casing      NEW             
+    ## 19          128819                       70286 STRAPPED TO CAS… NEW             
+    ## 20          128820                       68454 Casing           NEW             
     ## # … with 110 more variables: well_class_code <chr>, well_subclass <chr>,
     ## #   licenced_status_code <chr>, intended_water_use_code <chr>,
     ## #   observation_well_number <chr>, obs_well_status_code <chr>,
