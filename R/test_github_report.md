@@ -150,7 +150,7 @@ recent_wells %>%
     ## 17          128817                          NA <NA>             NEW             
     ## 18          128818                       28569 well casing      NEW             
     ## 19          128819                       70286 STRAPPED TO CAS… NEW             
-    ## 20          128820                       68454 Casing           NEW             
+    ## 20          128820                       68454 Casing           CLOSURE         
     ## # … with 110 more variables: well_class_code <chr>, well_subclass <chr>,
     ## #   licenced_status_code <chr>, intended_water_use_code <chr>,
     ## #   observation_well_number <chr>, obs_well_status_code <chr>,
