@@ -52,11 +52,6 @@ library(kableExtra)
 ``` r
 library(mapview)
 library(rnaturalearth)
-```
-
-    ## Support for Spatial objects (`sp`) will be deprecated in {rnaturalearth} and will be removed in a future release of the package. Please use `sf` objects with {rnaturalearth}. For example: `ne_download(returnclass = 'sf')`
-
-``` r
 source("../R/col_types_wells.R")
 message("install rnaturalearthhires")
 ```
@@ -131,26 +126,26 @@ recent_wells %>%
     ## # A tibble: 20 × 114
     ##    well_tag_number identification_plate_number well_identifica… well_status_code
     ##              <dbl>                       <dbl> <chr>            <chr>           
-    ##  1          128982                          NA <NA>             CLOSURE         
-    ##  2          128983                       68382 Stick-up         NEW             
-    ##  3          128984                       68380 Stick-up         NEW             
-    ##  4          128985                       67296 Stick-up         NEW             
-    ##  5          128986                       68384 Sitck-up         NEW             
-    ##  6          128987                       67295 Stick-up         NEW             
-    ##  7          128988                       68389 Stick-up         NEW             
-    ##  8          128989                       65457 Stick-up         NEW             
-    ##  9          128990                       65459 Stick-up         NEW             
-    ## 10          128991                       68381 Stick-up         NEW             
-    ## 11          128992                       46548 <NA>             NEW             
-    ## 12          128993                       46549 <NA>             NEW             
-    ## 13          128994                       67507 <NA>             NEW             
-    ## 14          128996                       49084 <NA>             NEW             
-    ## 15          128997                       63047 casing           NEW             
-    ## 16          128998                       65392 <NA>             NEW             
-    ## 17          128999                       53136 <NA>             NEW             
-    ## 18          129000                       70758 Stickup          NEW             
-    ## 19          129001                       70759 Stickup          NEW             
-    ## 20          129002                       70760 Stickup          NEW             
+    ##  1          128985                       67296 Stick-up         NEW             
+    ##  2          128986                       68384 Sitck-up         NEW             
+    ##  3          128987                       67295 Stick-up         NEW             
+    ##  4          128988                       68389 Stick-up         NEW             
+    ##  5          128989                       65457 Stick-up         NEW             
+    ##  6          128990                       65459 Stick-up         NEW             
+    ##  7          128991                       68381 Stick-up         NEW             
+    ##  8          128992                       46548 <NA>             NEW             
+    ##  9          128993                       46549 <NA>             NEW             
+    ## 10          128994                       67507 <NA>             NEW             
+    ## 11          128996                       49084 <NA>             NEW             
+    ## 12          128997                       63047 casing           NEW             
+    ## 13          128998                       65392 <NA>             NEW             
+    ## 14          128999                       53136 <NA>             NEW             
+    ## 15          129000                       70758 Stickup          NEW             
+    ## 16          129001                       70759 Stickup          NEW             
+    ## 17          129002                       70760 Stickup          NEW             
+    ## 18          129003                       68460 Casing           NEW             
+    ## 19          129004                       60220 STRAPPED TO CAS… NEW             
+    ## 20          129005                       65393 <NA>             NEW             
     ## # … with 110 more variables: well_class_code <chr>, well_subclass <chr>,
     ## #   licenced_status_code <chr>, intended_water_use_code <chr>,
     ## #   observation_well_number <chr>, obs_well_status_code <chr>,
