@@ -126,26 +126,26 @@ recent_wells %>%
     ## # A tibble: 20 × 114
     ##    well_tag_number identification_plate_number well_identifica… well_status_code
     ##              <dbl>                       <dbl> <chr>            <chr>           
-    ##  1          129270                       23880 6 inches Below … NEW             
-    ##  2          129271                       60308 <NA>             NEW             
-    ##  3          129272                       63978 6 Inches Below … NEW             
-    ##  4          129273                       34103 6 Inches Below … NEW             
-    ##  5          129274                       23883 6 Inches Below … NEW             
-    ##  6          129275                       63968 6 Inches Below … NEW             
-    ##  7          129276                       44113 6 Inches Below … NEW             
-    ##  8          129277                       60309 <NA>             NEW             
-    ##  9          129278                       63975 6 Inches Below … NEW             
-    ## 10          129279                       63999 6 Inches Below … NEW             
-    ## 11          129280                       63974 6 Inches Below … NEW             
-    ## 12          129281                          NA <NA>             NEW             
-    ## 13          129282                       23874 <NA>             NEW             
-    ## 14          129283                       63970 6 Inches Below … NEW             
-    ## 15          129284                       63976 6 Inches Below … NEW             
-    ## 16          129285                       44198 6 Inches Below … NEW             
-    ## 17          129286                       63980 6 Inches Below … NEW             
-    ## 18          129287                       63977 6 Inches Below … NEW             
-    ## 19          129288                       46364 <NA>             NEW             
-    ## 20          129289                       60311 <NA>             NEW             
+    ##  1          129272                       63978 6 Inches Below … NEW             
+    ##  2          129273                       34103 6 Inches Below … NEW             
+    ##  3          129274                       23883 6 Inches Below … NEW             
+    ##  4          129275                       63968 6 Inches Below … NEW             
+    ##  5          129276                       44113 6 Inches Below … NEW             
+    ##  6          129277                       60309 <NA>             NEW             
+    ##  7          129278                       63975 6 Inches Below … NEW             
+    ##  8          129279                       63999 6 Inches Below … NEW             
+    ##  9          129280                       63974 6 Inches Below … NEW             
+    ## 10          129281                          NA <NA>             NEW             
+    ## 11          129282                       23874 <NA>             NEW             
+    ## 12          129283                       63970 6 Inches Below … NEW             
+    ## 13          129284                       63976 6 Inches Below … NEW             
+    ## 14          129285                       44198 6 Inches Below … NEW             
+    ## 15          129286                       63980 6 Inches Below … NEW             
+    ## 16          129287                       63977 6 Inches Below … NEW             
+    ## 17          129288                       46364 <NA>             NEW             
+    ## 18          129289                       60311 <NA>             NEW             
+    ## 19          129290                          NA <NA>             NEW             
+    ## 20          129291                       15813 <NA>             NEW             
     ## # … with 110 more variables: well_class_code <chr>, well_subclass <chr>,
     ## #   licenced_status_code <chr>, intended_water_use_code <chr>,
     ## #   observation_well_number <chr>, obs_well_status_code <chr>,
