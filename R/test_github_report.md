@@ -126,26 +126,26 @@ recent_wells %>%
     ## # A tibble: 20 × 114
     ##    well_tag_number identification_plate_number well_identifica… well_status_code
     ##              <dbl>                       <dbl> <chr>            <chr>           
-    ##  1          129913                          NA Casing           NEW             
-    ##  2          129914                       19517 Casing           NEW             
-    ##  3          129916                          NA Casing           NEW             
-    ##  4          129917                       69662 casing           NEW             
-    ##  5          129918                       19596 Casing           NEW             
-    ##  6          129919                       66892 casing           NEW             
-    ##  7          129920                       19595 Casing           NEW             
-    ##  8          129921                          NA <NA>             NEW             
-    ##  9          129922                          NA <NA>             NEW             
-    ## 10          129923                       52999 Hose Clamped to… NEW             
-    ## 11          129924                       52995 Hose clamped to… NEW             
-    ## 12          129925                       52989 Hose clamped to… NEW             
-    ## 13          129926                       25806 Hose clamped to… ALTERATION      
-    ## 14          129927                      648254 casing           NEW             
-    ## 15          129928                          NA <NA>             NEW             
-    ## 16          129929                       60645 Side Of casing   NEW             
-    ## 17          129930                       52955 Hose clamped to… NEW             
-    ## 18          129931                       65300 Hose clamped to… NEW             
-    ## 19          129932                       65301 Hose clamped to… NEW             
-    ## 20          129933                       65330 <NA>             NEW             
+    ##  1          129931                       65300 Hose clamped to… NEW             
+    ##  2          129932                       65301 Hose clamped to… NEW             
+    ##  3          129933                       65330 <NA>             NEW             
+    ##  4          129934                       66740 casing           NEW             
+    ##  5          129935                       65331 <NA>             NEW             
+    ##  6          129936                       65332 <NA>             NEW             
+    ##  7          129937                       60237 STRAPPED TO CAS… NEW             
+    ##  8          129938                       52948 Hose clamped to… NEW             
+    ##  9          129939                       52966 Hose clamped to… NEW             
+    ## 10          129940                          NA <NA>             NEW             
+    ## 11          129941                       69659 casing           NEW             
+    ## 12          129942                       52951 Hose clamped to… NEW             
+    ## 13          129943                       69670 casing           NEW             
+    ## 14          129944                       52952 Hose clamped to… NEW             
+    ## 15          129945                       52953 <NA>             NEW             
+    ## 16          129947                          NA Hose clamped to… NEW             
+    ## 17          129948                       71457 <NA>             NEW             
+    ## 18          129949                       52956 Hose clamped to… NEW             
+    ## 19          129950                       52967 Hose clamped to… NEW             
+    ## 20          129951                       52969 Hose clamped to… NEW             
     ## # … with 110 more variables: well_class_code <chr>, well_subclass <chr>,
     ## #   licenced_status_code <chr>, intended_water_use_code <chr>,
     ## #   observation_well_number <chr>, obs_well_status_code <chr>,
