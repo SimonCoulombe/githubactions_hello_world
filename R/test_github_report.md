@@ -126,26 +126,26 @@ recent_wells %>%
     ## # A tibble: 20 × 114
     ##    well_tag_number identification_plate_number well_identifica… well_status_code
     ##              <dbl>                       <dbl> <chr>            <chr>           
-    ##  1          129992                       52997 Hose clamped to… NEW             
-    ##  2          129993                       52998 Hose clamped to… NEW             
-    ##  3          129994                       70130 casing           NEW             
-    ##  4          129995                          NA <NA>             NEW             
-    ##  5          129996                       52992 Hose clamped to… NEW             
-    ##  6          129997                       51136 Removed          CLOSURE         
-    ##  7          129998                       51140 Removed          CLOSURE         
-    ##  8          129999                       15894 <NA>             NEW             
-    ##  9          130000                       15893 <NA>             NEW             
-    ## 10          130001                       62631 <NA>             NEW             
-    ## 11          130002                       28418 Removed          CLOSURE         
-    ## 12          130003                       51181 <NA>             CLOSURE         
-    ## 13          130004                       51108 Not installed    CLOSURE         
-    ## 14          130005                       51104 Not attached     CLOSURE         
-    ## 15          130006                       51105 Not attached     CLOSURE         
-    ## 16          130007                       51106 Not attached     CLOSURE         
-    ## 17          130008                          NA <NA>             NEW             
-    ## 18          130009                       63805 On well casing   NEW             
-    ## 19          130010                       63842 On well casing   NEW             
-    ## 20          130011                       60227 STRAPPED TO CAS… NEW             
+    ##  1          130004                       51108 Not installed    CLOSURE         
+    ##  2          130005                       51104 Not attached     CLOSURE         
+    ##  3          130006                       51105 Not attached     CLOSURE         
+    ##  4          130007                       51106 Not attached     CLOSURE         
+    ##  5          130008                       62632 <NA>             NEW             
+    ##  6          130009                       63805 On well casing   NEW             
+    ##  7          130010                       63842 On well casing   NEW             
+    ##  8          130011                       60227 STRAPPED TO CAS… NEW             
+    ##  9          130012                       51153 Removed          CLOSURE         
+    ## 10          130013                       51151 Removed          CLOSURE         
+    ## 11          130014                       51152 Removed          CLOSURE         
+    ## 12          130015                       51150 Removed          CLOSURE         
+    ## 13          130016                       51107 Not installed    CLOSURE         
+    ## 14          130017                       12164 Removed          CLOSURE         
+    ## 15          130018                       70603 <NA>             NEW             
+    ## 16          130019                       65052 On well casing   NEW             
+    ## 17          130021                       65053 On well casing   NEW             
+    ## 18          130022                       63819 On well casing   NEW             
+    ## 19          130023                       28557 Casing           NEW             
+    ## 20          130024                       69099 On well casing   NEW             
     ## # … with 110 more variables: well_class_code <chr>, well_subclass <chr>,
     ## #   licenced_status_code <chr>, intended_water_use_code <chr>,
     ## #   observation_well_number <chr>, obs_well_status_code <chr>,
