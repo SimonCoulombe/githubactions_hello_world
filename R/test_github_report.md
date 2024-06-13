@@ -126,26 +126,26 @@ recent_wells %>%
     ## # A tibble: 20 × 114
     ##    well_tag_number identification_plate_number well_identifica… well_status_code
     ##              <dbl>                       <dbl> <chr>            <chr>           
-    ##  1          130619                       71623 <NA>             NEW             
-    ##  2          130620                       69195 STRAPPED TO CAS… NEW             
-    ##  3          130621                       45450 <NA>             CLOSURE         
-    ##  4          130622                       45432 <NA>             CLOSURE         
-    ##  5          130624                       71624 <NA>             NEW             
-    ##  6          130625                       71625 <NA>             NEW             
-    ##  7          130626                       71626 <NA>             NEW             
-    ##  8          130627                       71627 <NA>             NEW             
-    ##  9          130628                       71628 <NA>             NEW             
-    ## 10          130629                       24585 <NA>             NEW             
-    ## 11          130630                       71630 <NA>             NEW             
-    ## 12          130631                       71631 <NA>             NEW             
-    ## 13          130632                       71998 Stickup          NEW             
-    ## 14          130633                       71999 Stickup          NEW             
-    ## 15          130634                      129143 <NA>             NEW             
-    ## 16          130635                       71634 <NA>             NEW             
-    ## 17          130636                       71635 <NA>             NEW             
-    ## 18          130637                       71632 <NA>             NEW             
-    ## 19          130638                       71636 <NA>             NEW             
-    ## 20          130639                       71637 <NA>             NEW             
+    ##  1          130627                       71627 <NA>             NEW             
+    ##  2          130628                       71628 <NA>             NEW             
+    ##  3          130629                       24585 <NA>             NEW             
+    ##  4          130630                       71630 <NA>             NEW             
+    ##  5          130631                       71631 <NA>             NEW             
+    ##  6          130632                       71998 Stickup          NEW             
+    ##  7          130633                       71999 Stickup          NEW             
+    ##  8          130634                      129143 <NA>             NEW             
+    ##  9          130635                       71634 <NA>             NEW             
+    ## 10          130636                       71635 <NA>             NEW             
+    ## 11          130637                       71632 <NA>             NEW             
+    ## 12          130638                       71636 <NA>             NEW             
+    ## 13          130639                       71637 <NA>             NEW             
+    ## 14          130640                       72000 Stickup          NEW             
+    ## 15          130641                       71638 <NA>             NEW             
+    ## 16          130642                       71639 <NA>             NEW             
+    ## 17          130643                       71640 <NA>             NEW             
+    ## 18          130644                       71642 <NA>             NEW             
+    ## 19          130645                       71644 <NA>             NEW             
+    ## 20          130646                       71645 <NA>             NEW             
     ## # … with 110 more variables: well_class_code <chr>, well_subclass <chr>,
     ## #   licenced_status_code <chr>, intended_water_use_code <chr>,
     ## #   observation_well_number <chr>, obs_well_status_code <chr>,
