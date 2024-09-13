@@ -126,26 +126,26 @@ recent_wells %>%
     ## # A tibble: 20 × 114
     ##    well_tag_number identification_plate_number well_identifica… well_status_code
     ##              <dbl>                       <dbl> <chr>            <chr>           
-    ##  1          130937                       73119 <NA>             NEW             
-    ##  2          130938                       73123 <NA>             NEW             
-    ##  3          130939                       73124 <NA>             NEW             
-    ##  4          130940                       73125 <NA>             NEW             
-    ##  5          130941                       73120 <NA>             NEW             
-    ##  6          130942                       73121 <NA>             NEW             
-    ##  7          130943                       60721 Casing           NEW             
-    ##  8          130944                       60719 Casing           NEW             
-    ##  9          130945                       60715 Casing           NEW             
-    ## 10          130946                       60717 Casing           NEW             
-    ## 11          130947                       66799 <NA>             NEW             
-    ## 12          130948                          NA <NA>             CLOSURE         
-    ## 13          130949                       73126 <NA>             NEW             
-    ## 14          130950                       67990 casing           NEW             
-    ## 15          130951                       67991 casing           NEW             
-    ## 16          130952                       69974 casing           NEW             
-    ## 17          130953                       69970 casing           NEW             
-    ## 18          130954                       73127 <NA>             NEW             
-    ## 19          130955                       69965 casing           NEW             
-    ## 20          130956                       60249 STRAPPED TO CAS… NEW             
+    ##  1          130941                       73120 <NA>             NEW             
+    ##  2          130942                       73121 <NA>             NEW             
+    ##  3          130943                       60721 Casing           NEW             
+    ##  4          130944                       60719 Casing           NEW             
+    ##  5          130945                       60715 Casing           NEW             
+    ##  6          130946                       60717 Casing           NEW             
+    ##  7          130947                       66799 <NA>             NEW             
+    ##  8          130948                          NA <NA>             CLOSURE         
+    ##  9          130949                       73126 <NA>             NEW             
+    ## 10          130950                       67990 casing           NEW             
+    ## 11          130951                       67991 casing           NEW             
+    ## 12          130952                       69974 casing           NEW             
+    ## 13          130953                       69970 casing           NEW             
+    ## 14          130954                       73127 <NA>             NEW             
+    ## 15          130955                       69965 casing           NEW             
+    ## 16          130956                       60249 STRAPPED TO CAS… NEW             
+    ## 17          130957                       60722 casing           NEW             
+    ## 18          130958                       70701 Casing           NEW             
+    ## 19          130959                       71337 On well casing   NEW             
+    ## 20          130960                          NA <NA>             NEW             
     ## # … with 110 more variables: well_class_code <chr>, well_subclass <chr>,
     ## #   licenced_status_code <chr>, intended_water_use_code <chr>,
     ## #   observation_well_number <chr>, obs_well_status_code <chr>,
