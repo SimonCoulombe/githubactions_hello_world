@@ -126,26 +126,26 @@ recent_wells %>%
     ## # A tibble: 20 × 114
     ##    well_tag_number identification_plate_number well_identifica… well_status_code
     ##              <dbl>                       <dbl> <chr>            <chr>           
-    ##  1          131016                       66238 side             NEW             
-    ##  2          131017                       66242 Side             NEW             
-    ##  3          131018                       66243 side             NEW             
-    ##  4          131019                       68884 side             NEW             
-    ##  5          131020                       68897 side             NEW             
-    ##  6          131021                       68898 side             NEW             
-    ##  7          131022                       66245 side             NEW             
-    ##  8          131023                       66246 side             NEW             
-    ##  9          131024                       66247 side             NEW             
-    ## 10          131025                       66249 side             NEW             
-    ## 11          131026                       72403 casing           NEW             
-    ## 12          131027                       60225 STRAPPED TO CAS… NEW             
-    ## 13          131028                       65119 <NA>             NEW             
-    ## 14          131029                       65118 side             NEW             
-    ## 15          131030                       65117 side             NEW             
-    ## 16          131031                       66144 side             NEW             
-    ## 17          131032                       68899 side             NEW             
-    ## 18          131033                       65116 side             NEW             
-    ## 19          131034                       68890 side             NEW             
-    ## 20          131035                       65115 side             NEW             
+    ##  1          131022                       66245 side             NEW             
+    ##  2          131023                       66246 side             NEW             
+    ##  3          131024                       66247 side             NEW             
+    ##  4          131025                       66249 side             NEW             
+    ##  5          131026                       72403 casing           NEW             
+    ##  6          131027                       60225 STRAPPED TO CAS… NEW             
+    ##  7          131028                       65119 <NA>             NEW             
+    ##  8          131029                       65118 side             NEW             
+    ##  9          131030                       65117 side             NEW             
+    ## 10          131031                       66144 side             NEW             
+    ## 11          131032                       68899 side             NEW             
+    ## 12          131033                       65116 side             NEW             
+    ## 13          131034                       68890 side             NEW             
+    ## 14          131035                       65115 side             NEW             
+    ## 15          131036                       73153 <NA>             NEW             
+    ## 16          131037                       68891 side             NEW             
+    ## 17          131038                       68887 Side             NEW             
+    ## 18          131039                       68892 Side             NEW             
+    ## 19          131040                       68893 Side             NEW             
+    ## 20          131042                       60570 <NA>             NEW             
     ## # … with 110 more variables: well_class_code <chr>, well_subclass <chr>,
     ## #   licenced_status_code <chr>, intended_water_use_code <chr>,
     ## #   observation_well_number <chr>, obs_well_status_code <chr>,
