@@ -126,26 +126,26 @@ recent_wells %>%
     ## # A tibble: 20 × 114
     ##    well_tag_number identification_plate_number well_identifica… well_status_code
     ##              <dbl>                       <dbl> <chr>            <chr>           
-    ##  1          131092                       24939 Casing stick up  NEW             
-    ##  2          131093                       64472 Unknown          NEW             
-    ##  3          131094                       64483 <NA>             NEW             
-    ##  4          131095                       64492 Unknown          NEW             
-    ##  5          131096                       64490 Unknown          NEW             
-    ##  6          131097                       64491 Unknown          NEW             
-    ##  7          131098                       64477 <NA>             NEW             
-    ##  8          131099                       64493 Unknown          NEW             
-    ##  9          131100                       64497 Unknown          NEW             
-    ## 10          131101                       64469 Unknown          NEW             
-    ## 11          131102                       64489 Unknown          NEW             
-    ## 12          131103                       64482 Unknown          NEW             
-    ## 13          131104                       64494 Unknown          NEW             
-    ## 14          131105                       30704 6 inches BTOC    NEW             
-    ## 15          131106                       30793 4 inches BTOC    NEW             
-    ## 16          131107                       30716 <NA>             NEW             
-    ## 17          131108                       30733 4 inches BTOC    NEW             
-    ## 18          131109                       30719 4 inches BTOC    NEW             
-    ## 19          131110                          NA <NA>             CLOSURE         
-    ## 20          131111                       72049 STRAPPED TO CAS… NEW             
+    ##  1          131116                       30740 6 inches BTOC    NEW             
+    ##  2          131117                       30752 6 inches BTOC    NEW             
+    ##  3          131118                       30725 <NA>             ALTERATION      
+    ##  4          131119                       30794 4 inches BTOC    NEW             
+    ##  5          131120                       30723 6 inches BTOC    NEW             
+    ##  6          131121                       22960 <NA>             NEW             
+    ##  7          131122                       30734 4 inch BTOC      NEW             
+    ##  8          131123                       30721 6 inches BTOC    NEW             
+    ##  9          131124                       30717 6 inches BTOC    NEW             
+    ## 10          131125                       30739 5 inches BTOC    NEW             
+    ## 11          131126                       30738 6 inches BTOC    NEW             
+    ## 12          131127                       48089 <NA>             NEW             
+    ## 13          131128                       48995 4 inches BTOC    NEW             
+    ## 14          131129                       51166 <NA>             NEW             
+    ## 15          131130                       51158 <NA>             NEW             
+    ## 16          131131                       51168 <NA>             NEW             
+    ## 17          131132                       51172 <NA>             NEW             
+    ## 18          131133                          NA <NA>             CLOSURE         
+    ## 19          131134                       46253 Casing           NEW             
+    ## 20          131135                       69656 casing           NEW             
     ## # … with 110 more variables: well_class_code <chr>, well_subclass <chr>,
     ## #   licenced_status_code <chr>, intended_water_use_code <chr>,
     ## #   observation_well_number <chr>, obs_well_status_code <chr>,
