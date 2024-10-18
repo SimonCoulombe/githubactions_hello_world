@@ -126,26 +126,26 @@ recent_wells %>%
     ## # A tibble: 20 × 114
     ##    well_tag_number identification_plate_number well_identifica… well_status_code
     ##              <dbl>                       <dbl> <chr>            <chr>           
-    ##  1          131171                       70610 Unknown          NEW             
-    ##  2          131172                       70611 Unknown          NEW             
-    ##  3          131173                       70828 Unknown          NEW             
-    ##  4          131174                       72073 STRAPPED TO CAS… NEW             
-    ##  5          131175                       68896 Side             ALTERATION      
-    ##  6          131176                       61481 Well Head        NEW             
-    ##  7          131177                       70849 <NA>             NEW             
-    ##  8          131178                       72067 STRAPPED TO CAS… NEW             
-    ##  9          131179                       60699 side of casing   NEW             
-    ## 10          131180                       51913 <NA>             CLOSURE         
-    ## 11          131181                       51100 <NA>             CLOSURE         
-    ## 12          131182                       25144 Inside building… NEW             
-    ## 13          131183                       47801 Wall of well bu… NEW             
-    ## 14          131184                          NA <NA>             CLOSURE         
-    ## 15          131185                          NA <NA>             CLOSURE         
-    ## 16          131186                       68976 Side             NEW             
-    ## 17          131187                       68977 Side             NEW             
-    ## 18          131188                       69409 Side             NEW             
-    ## 19          131189                       60688 Side             NEW             
-    ## 20          131190                       60687 Side             NEW             
+    ##  1          131181                       51100 <NA>             CLOSURE         
+    ##  2          131182                       25144 Inside building… NEW             
+    ##  3          131183                       47801 Wall of well bu… NEW             
+    ##  4          131184                          NA <NA>             CLOSURE         
+    ##  5          131185                          NA <NA>             CLOSURE         
+    ##  6          131186                       68976 Side             NEW             
+    ##  7          131187                       68977 Side             NEW             
+    ##  8          131188                       69409 Side             NEW             
+    ##  9          131189                       60688 Side             NEW             
+    ## 10          131190                       60687 Side             NEW             
+    ## 11          131191                       60681 Side             NEW             
+    ## 12          131192                       60680 side             NEW             
+    ## 13          131194                       68979 Side             NEW             
+    ## 14          131195                       69880 Side             NEW             
+    ## 15          131196                       69878 Side             NEW             
+    ## 16          131197                       60632 Side             NEW             
+    ## 17          131198                       60637 Side             NEW             
+    ## 18          131199                       60631 Side             NEW             
+    ## 19          131200                       60633 Side             NEW             
+    ## 20          131201                       37666 STRAPPED TO CAS… NEW             
     ## # … with 110 more variables: well_class_code <chr>, well_subclass <chr>,
     ## #   licenced_status_code <chr>, intended_water_use_code <chr>,
     ## #   observation_well_number <chr>, obs_well_status_code <chr>,
