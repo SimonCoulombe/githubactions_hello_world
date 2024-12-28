@@ -126,26 +126,26 @@ recent_wells %>%
     ## # A tibble: 20 × 114
     ##    well_tag_number identification_plate_number well_identifica… well_status_code
     ##              <dbl>                       <dbl> <chr>            <chr>           
-    ##  1          131809                          NA <NA>             NEW             
-    ##  2          131810                       73281 <NA>             NEW             
-    ##  3          131811                       63007 casing           NEW             
-    ##  4          131812                       63004 casing           NEW             
-    ##  5          131813                          NA <NA>             NEW             
-    ##  6          131814                          NA <NA>             NEW             
-    ##  7          131815                          NA <NA>             NEW             
-    ##  8          131816                       72798 Banded to Casing NEW             
-    ##  9          131817                       72855 Banded to casing NEW             
-    ## 10          131819                       72929 Banded to well   NEW             
-    ## 11          131820                       72931 Banded to well   NEW             
-    ## 12          131821                       19567 Banded to Casing NEW             
-    ## 13          131822                       72913 banded to well   NEW             
-    ## 14          131823                       72934 banded to well   NEW             
-    ## 15          131824                          NA <NA>             NEW             
-    ## 16          131825                          NA <NA>             NEW             
-    ## 17          131826                          NA <NA>             NEW             
-    ## 18          131827                          NA <NA>             NEW             
-    ## 19          131828                       73282 <NA>             NEW             
-    ## 20          131829                       32506 <NA>             NEW             
+    ##  1          131811                       63007 casing           NEW             
+    ##  2          131812                       63004 casing           NEW             
+    ##  3          131813                          NA <NA>             NEW             
+    ##  4          131814                          NA <NA>             NEW             
+    ##  5          131815                          NA <NA>             NEW             
+    ##  6          131816                       72798 Banded to Casing NEW             
+    ##  7          131817                       72855 Banded to casing NEW             
+    ##  8          131819                       72929 Banded to well   NEW             
+    ##  9          131820                       72931 Banded to well   NEW             
+    ## 10          131821                       19567 Banded to Casing NEW             
+    ## 11          131822                       72913 banded to well   NEW             
+    ## 12          131823                       72934 banded to well   NEW             
+    ## 13          131824                          NA <NA>             NEW             
+    ## 14          131825                          NA <NA>             NEW             
+    ## 15          131826                          NA <NA>             NEW             
+    ## 16          131827                          NA <NA>             NEW             
+    ## 17          131828                       73282 <NA>             NEW             
+    ## 18          131829                       32506 <NA>             NEW             
+    ## 19          131830                          NA <NA>             NEW             
+    ## 20          131831                          NA <NA>             NEW             
     ## # … with 110 more variables: well_class_code <chr>, well_subclass <chr>,
     ## #   licenced_status_code <chr>, intended_water_use_code <chr>,
     ## #   observation_well_number <chr>, obs_well_status_code <chr>,
