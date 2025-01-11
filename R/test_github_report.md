@@ -126,26 +126,26 @@ recent_wells %>%
     ## # A tibble: 20 × 114
     ##    well_tag_number identification_plate_number well_identifica… well_status_code
     ##              <dbl>                       <dbl> <chr>            <chr>           
-    ##  1          131957                          NA <NA>             CLOSURE         
-    ##  2          131958                       73305 <NA>             NEW             
-    ##  3          131959                          NA <NA>             NEW             
-    ##  4          131960                          NA <NA>             NEW             
-    ##  5          131961                       70626 Well head        NEW             
-    ##  6          131962                       70845 Stickup          NEW             
-    ##  7          131963                       70846 Stickup          NEW             
-    ##  8          131964                       72415 cap              NEW             
-    ##  9          131965                       70628 Unknown          NEW             
-    ## 10          131966                       73309 <NA>             NEW             
-    ## 11          131967                       70825 Stickup          NEW             
-    ## 12          131968                       70824 Stickup          NEW             
-    ## 13          131974                          NA Stickup          NEW             
-    ## 14          131975                       70835 Stickup          NEW             
-    ## 15          131976                       70627 Unknown          NEW             
-    ## 16          131977                       69036 unknown          NEW             
-    ## 17          131978                       70836 Unknown          NEW             
-    ## 18          131979                       51925 Unknown          NEW             
-    ## 19          131980                       73306 <NA>             NEW             
-    ## 20          131981                       73307 <NA>             NEW             
+    ##  1          131958                       73305 <NA>             NEW             
+    ##  2          131959                          NA <NA>             NEW             
+    ##  3          131960                          NA <NA>             NEW             
+    ##  4          131961                       70626 Well head        NEW             
+    ##  5          131962                       70845 Stickup          NEW             
+    ##  6          131963                       70846 Stickup          NEW             
+    ##  7          131964                       72415 cap              NEW             
+    ##  8          131965                       70628 Unknown          NEW             
+    ##  9          131966                       73309 <NA>             NEW             
+    ## 10          131967                       70825 Stickup          NEW             
+    ## 11          131968                       70824 Stickup          NEW             
+    ## 12          131974                          NA Stickup          NEW             
+    ## 13          131975                       70835 Stickup          NEW             
+    ## 14          131976                       70627 Unknown          NEW             
+    ## 15          131977                       69036 unknown          NEW             
+    ## 16          131978                       70836 Unknown          NEW             
+    ## 17          131979                       51925 Unknown          NEW             
+    ## 18          131980                       73306 <NA>             NEW             
+    ## 19          131981                       73307 <NA>             NEW             
+    ## 20          131982                          NA <NA>             NEW             
     ## # … with 110 more variables: well_class_code <chr>, well_subclass <chr>,
     ## #   licenced_status_code <chr>, intended_water_use_code <chr>,
     ## #   observation_well_number <chr>, obs_well_status_code <chr>,
