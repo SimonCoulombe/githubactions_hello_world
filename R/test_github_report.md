@@ -126,26 +126,26 @@ recent_wells %>%
     ## # A tibble: 20 × 114
     ##    well_tag_number identification_plate_number well_identifica… well_status_code
     ##              <dbl>                       <dbl> <chr>            <chr>           
-    ##  1          131993                       22398 Well Report      NEW             
-    ##  2          131994                          NA <NA>             CLOSURE         
-    ##  3          131995                          NA <NA>             CLOSURE         
-    ##  4          131996                          NA <NA>             CLOSURE         
-    ##  5          131997                          NA <NA>             CLOSURE         
-    ##  6          131998                          NA <NA>             CLOSURE         
-    ##  7          132000                          NA <NA>             NEW             
-    ##  8          132001                          NA <NA>             NEW             
-    ##  9          132002                          NA <NA>             NEW             
-    ## 10          132003                          NA <NA>             NEW             
-    ## 11          132004                       63023 casing           NEW             
-    ## 12          132005                       73311 <NA>             NEW             
-    ## 13          132006                       73312 <NA>             NEW             
-    ## 14          132007                       32130 Well head        NEW             
-    ## 15          132008                       73313 <NA>             NEW             
-    ## 16          132009                       73314 <NA>             NEW             
-    ## 17          132010                          NA <NA>             NEW             
-    ## 18          132011                       73315 <NA>             NEW             
-    ## 19          132012                       73316 <NA>             NEW             
-    ## 20          132013                          NA <NA>             NEW             
+    ##  1          131994                          NA <NA>             CLOSURE         
+    ##  2          131995                          NA <NA>             CLOSURE         
+    ##  3          131996                          NA <NA>             CLOSURE         
+    ##  4          131997                          NA <NA>             CLOSURE         
+    ##  5          131998                          NA <NA>             CLOSURE         
+    ##  6          132000                          NA <NA>             NEW             
+    ##  7          132001                          NA <NA>             NEW             
+    ##  8          132002                          NA <NA>             NEW             
+    ##  9          132003                          NA <NA>             NEW             
+    ## 10          132004                       63023 casing           NEW             
+    ## 11          132005                       73311 <NA>             NEW             
+    ## 12          132006                       73312 <NA>             NEW             
+    ## 13          132007                       32130 Well head        NEW             
+    ## 14          132008                       73313 <NA>             NEW             
+    ## 15          132009                       73314 <NA>             NEW             
+    ## 16          132010                          NA <NA>             NEW             
+    ## 17          132011                       73315 <NA>             NEW             
+    ## 18          132012                       73316 <NA>             NEW             
+    ## 19          132013                          NA <NA>             NEW             
+    ## 20          132014                          NA <NA>             NEW             
     ## # … with 110 more variables: well_class_code <chr>, well_subclass <chr>,
     ## #   licenced_status_code <chr>, intended_water_use_code <chr>,
     ## #   observation_well_number <chr>, obs_well_status_code <chr>,
