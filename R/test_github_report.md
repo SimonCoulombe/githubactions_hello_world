@@ -126,26 +126,26 @@ recent_wells %>%
     ## # A tibble: 20 × 114
     ##    well_tag_number identification_plate_number well_identifica… well_status_code
     ##              <dbl>                       <dbl> <chr>            <chr>           
-    ##  1          132264                       32413 "Casing"         NEW             
-    ##  2          132265                       32417 "Casing"         NEW             
-    ##  3          132266                       73430  <NA>            NEW             
-    ##  4          132267                       32422 "Casing"         NEW             
-    ##  5          132269                          NA "Casing"         NEW             
-    ##  6          132270                       32419 "Casing"         NEW             
-    ##  7          132271                       32418 "Casing"         NEW             
-    ##  8          132272                       73429  <NA>            NEW             
-    ##  9          132273                       32420 "Casing"         NEW             
-    ## 10          132274                       32402 "Casing"         NEW             
-    ## 11          132275                       64723 "Casing"         NEW             
-    ## 12          132276                       39298  <NA>            NEW             
-    ## 13          132277                       71429 "On well casing" NEW             
-    ## 14          132278                       64670 "4\" Before top… NEW             
-    ## 15          132279                       64674 "4\" before top… NEW             
-    ## 16          132280                       71427 "On well casing" NEW             
-    ## 17          132281                       64665 "5\" before top… NEW             
-    ## 18          132282                       71398 "On well casing" NEW             
-    ## 19          132283                       64661 "3\" Before top… NEW             
-    ## 20          132284                       71425 "On well casing" NEW             
+    ##  1          132283                       64661 "3\" Before top… NEW             
+    ##  2          132284                       71425 "On well casing" NEW             
+    ##  3          132285                       48991 "4\" before top… NEW             
+    ##  4          132286                       64657 "Unknown"        NEW             
+    ##  5          132287                       64663 "4\" before top… NEW             
+    ##  6          132288                       64654 "4\" before top… NEW             
+    ##  7          132289                       64662 "4\" before top… NEW             
+    ##  8          132290                       64676 "4\" before top… NEW             
+    ##  9          132291                       64673 "Unknown"        NEW             
+    ## 10          132292                          NA  <NA>            CLOSURE         
+    ## 11          132293                       52384 "Casing"         NEW             
+    ## 12          132294                       73431  <NA>            NEW             
+    ## 13          132295                       62214  <NA>            NEW             
+    ## 14          132296                       62215  <NA>            NEW             
+    ## 15          132297                       62220  <NA>            NEW             
+    ## 16          132298                       62222  <NA>            NEW             
+    ## 17          132299                       71430 "On well casing" NEW             
+    ## 18          132300                       62224  <NA>            NEW             
+    ## 19          132301                       71397 "On well casing" NEW             
+    ## 20          132302                       71362 "On well casing" NEW             
     ## # … with 110 more variables: well_class_code <chr>, well_subclass <chr>,
     ## #   licenced_status_code <chr>, intended_water_use_code <chr>,
     ## #   observation_well_number <chr>, obs_well_status_code <chr>,
