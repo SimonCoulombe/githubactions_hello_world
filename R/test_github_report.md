@@ -126,26 +126,26 @@ recent_wells %>%
     ## # A tibble: 20 × 114
     ##    well_tag_number identification_plate_number well_identifica… well_status_code
     ##              <dbl>                       <dbl> <chr>            <chr>           
-    ##  1          132863                       15816 <NA>             NEW             
-    ##  2          132864                       15818 <NA>             NEW             
-    ##  3          132865                       15819 <NA>             NEW             
-    ##  4          132866                       15820 <NA>             NEW             
-    ##  5          132867                       15821 <NA>             NEW             
-    ##  6          132868                       15822 <NA>             NEW             
-    ##  7          132869                       15823 <NA>             NEW             
-    ##  8          132870                       15824 <NA>             NEW             
-    ##  9          132871                       15826 <NA>             NEW             
-    ## 10          132872                       15827 <NA>             NEW             
-    ## 11          132873                       15828 <NA>             NEW             
-    ## 12          132874                       15829 <NA>             NEW             
-    ## 13          132875                       15830 <NA>             NEW             
-    ## 14          132876                          NA <NA>             ALTERATION      
-    ## 15          132877                       15831 <NA>             NEW             
-    ## 16          132878                       15832 <NA>             NEW             
-    ## 17          132879                          NA <NA>             ALTERATION      
-    ## 18          132880                          NA <NA>             CLOSURE         
-    ## 19          132881                       15833 <NA>             NEW             
-    ## 20          132882                       15834 <NA>             NEW             
+    ##  1          132867                       15821 <NA>             NEW             
+    ##  2          132868                       15822 <NA>             NEW             
+    ##  3          132869                       15823 <NA>             NEW             
+    ##  4          132870                       15824 <NA>             NEW             
+    ##  5          132871                       15826 <NA>             NEW             
+    ##  6          132872                       15827 <NA>             NEW             
+    ##  7          132873                       15828 <NA>             NEW             
+    ##  8          132874                       15829 <NA>             NEW             
+    ##  9          132875                       15830 <NA>             NEW             
+    ## 10          132876                          NA <NA>             ALTERATION      
+    ## 11          132877                       15831 <NA>             NEW             
+    ## 12          132878                       15832 <NA>             NEW             
+    ## 13          132879                          NA <NA>             ALTERATION      
+    ## 14          132880                          NA <NA>             CLOSURE         
+    ## 15          132881                       15833 <NA>             NEW             
+    ## 16          132882                       15834 <NA>             NEW             
+    ## 17          132883                          NA <NA>             NEW             
+    ## 18          132884                          NA <NA>             NEW             
+    ## 19          132885                       37698 STRAPPED TO CAS… NEW             
+    ## 20          132886                          NA <NA>             NEW             
     ## # … with 110 more variables: well_class_code <chr>, well_subclass <chr>,
     ## #   licenced_status_code <chr>, intended_water_use_code <chr>,
     ## #   observation_well_number <chr>, obs_well_status_code <chr>,
