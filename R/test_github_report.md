@@ -126,26 +126,26 @@ recent_wells %>%
     ## # A tibble: 20 × 114
     ##    well_tag_number identification_plate_number well_identifica… well_status_code
     ##              <dbl>                       <dbl> <chr>            <chr>           
-    ##  1          133028                       60286 STRAPPED TO CAS… NEW             
-    ##  2          133029                       75007 <NA>             NEW             
-    ##  3          133030                       72107 STRAPPED TO CAS… NEW             
-    ##  4          133031                       75008 <NA>             NEW             
-    ##  5          133032                       72108 STRAPPED TO CAS… NEW             
-    ##  6          133033                       75011 <NA>             NEW             
-    ##  7          133034                       34682 Hose clamped to… NEW             
-    ##  8          133035                       34692 Hose clamped to… NEW             
-    ##  9          133036                       65521 STRAPPED TO CAS… NEW             
-    ## 10          133037                       65522 STRAPPED TO CAS… NEW             
-    ## 11          133038                       65523 STRAPPED TO CAS… NEW             
-    ## 12          133039                       33830 <NA>             NEW             
-    ## 13          133040                       24448 Well head        NEW             
-    ## 14          133041                       75013 <NA>             NEW             
-    ## 15          133042                       75015 <NA>             NEW             
-    ## 16          133043                       75016 <NA>             NEW             
-    ## 17          133044                       75017 <NA>             NEW             
-    ## 18          133045                       75018 <NA>             NEW             
-    ## 19          133046                          NA <NA>             NEW             
-    ## 20          133047                          NA <NA>             NEW             
+    ##  1          133034                       34682 Hose clamped to… NEW             
+    ##  2          133035                       34692 Hose clamped to… NEW             
+    ##  3          133036                       65521 STRAPPED TO CAS… NEW             
+    ##  4          133037                       65522 STRAPPED TO CAS… NEW             
+    ##  5          133038                       65523 STRAPPED TO CAS… NEW             
+    ##  6          133039                       33830 <NA>             NEW             
+    ##  7          133040                       24448 Well head        NEW             
+    ##  8          133041                       75013 <NA>             NEW             
+    ##  9          133042                       75015 <NA>             NEW             
+    ## 10          133043                       75016 <NA>             NEW             
+    ## 11          133044                       75017 <NA>             NEW             
+    ## 12          133045                       75018 <NA>             NEW             
+    ## 13          133046                          NA <NA>             NEW             
+    ## 14          133047                          NA <NA>             NEW             
+    ## 15          133048                      630474 casing           NEW             
+    ## 16          133049                       63043 casing           NEW             
+    ## 17          133050                       63008 casing           NEW             
+    ## 18          133051                       75020 <NA>             NEW             
+    ## 19          133052                       75021 <NA>             NEW             
+    ## 20          133053                       75022 <NA>             NEW             
     ## # … with 110 more variables: well_class_code <chr>, well_subclass <chr>,
     ## #   licenced_status_code <chr>, intended_water_use_code <chr>,
     ## #   observation_well_number <chr>, obs_well_status_code <chr>,
