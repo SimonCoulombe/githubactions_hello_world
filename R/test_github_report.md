@@ -126,26 +126,26 @@ recent_wells %>%
     ## # A tibble: 20 × 114
     ##    well_tag_number identification_plate_number well_identifica… well_status_code
     ##              <dbl>                       <dbl> <chr>            <chr>           
-    ##  1          133231                       74260 74260            NEW             
-    ##  2          133232                       74261 Stickup          NEW             
-    ##  3          133233                       74262 Stickup          NEW             
-    ##  4          133234                       74263 Stickup          NEW             
-    ##  5          133235                       74264 Stickup          NEW             
-    ##  6          133236                       74265 Stickup          NEW             
-    ##  7          133237                       74266 Stickup          NEW             
-    ##  8          133238                       74267 Stickup          NEW             
-    ##  9          133239                       38685 Hose clamped to… NEW             
-    ## 10          133241                       70337 Top of casing    NEW             
-    ## 11          133242                       74268 Stickup          NEW             
-    ## 12          133243                       70310 Well head        NEW             
-    ## 13          133244                       73940 casing           NEW             
-    ## 14          133245                       73921 casing           NEW             
-    ## 15          133246                       74269 Stickup          NEW             
-    ## 16          133247                       73915 casing           NEW             
-    ## 17          133248                       73942 casing           NEW             
-    ## 18          133249                       75144 <NA>             NEW             
-    ## 19          133250                       70301 Top of casing    NEW             
-    ## 20          133252                       75146 <NA>             NEW             
+    ##  1          133234                       74263 Stickup          NEW             
+    ##  2          133235                       74264 Stickup          NEW             
+    ##  3          133236                       74265 Stickup          NEW             
+    ##  4          133237                       74266 Stickup          NEW             
+    ##  5          133238                       74267 Stickup          NEW             
+    ##  6          133239                       38685 Hose clamped to… NEW             
+    ##  7          133241                       70337 Top of casing    NEW             
+    ##  8          133242                       74268 Stickup          NEW             
+    ##  9          133243                       70310 Well head        NEW             
+    ## 10          133244                       73940 casing           NEW             
+    ## 11          133245                       73921 casing           NEW             
+    ## 12          133246                       74269 Stickup          NEW             
+    ## 13          133247                       73915 casing           NEW             
+    ## 14          133248                       73942 casing           NEW             
+    ## 15          133249                       75144 <NA>             NEW             
+    ## 16          133250                       70301 Top of casing    NEW             
+    ## 17          133252                       75146 <NA>             NEW             
+    ## 18          133253                       60177 SIDE OF CASING   NEW             
+    ## 19          133254                       75150 <NA>             NEW             
+    ## 20          133255                       74270 Stickup          NEW             
     ## # … with 110 more variables: well_class_code <chr>, well_subclass <chr>,
     ## #   licenced_status_code <chr>, intended_water_use_code <chr>,
     ## #   observation_well_number <chr>, obs_well_status_code <chr>,
