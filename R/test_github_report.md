@@ -126,26 +126,26 @@ recent_wells %>%
     ## # A tibble: 20 × 114
     ##    well_tag_number identification_plate_number well_identifica… well_status_code
     ##              <dbl>                       <dbl> <chr>            <chr>           
-    ##  1          134615                       76596 Casing           NEW             
-    ##  2          134616                          NA <NA>             NEW             
-    ##  3          134617                          NA <NA>             NEW             
-    ##  4          134618                          NA <NA>             CLOSURE         
-    ##  5          134619                          NA <NA>             CLOSURE         
-    ##  6          134620                          NA <NA>             CLOSURE         
-    ##  7          134621                          NA <NA>             CLOSURE         
-    ##  8          134622                          NA <NA>             NEW             
-    ##  9          134623                       71388 Casing           NEW             
-    ## 10          134624                          NA <NA>             NEW             
-    ## 11          134625                       76597 Casing           NEW             
-    ## 12          134626                          NA <NA>             NEW             
-    ## 13          134627                       44839 Top of casing    NEW             
-    ## 14          134628                          NA <NA>             NEW             
-    ## 15          134629                          NA <NA>             NEW             
-    ## 16          134630                          NA <NA>             NEW             
-    ## 17          134631                       76138 Casing           NEW             
-    ## 18          134632                       71418 Clamped to pipe  NEW             
-    ## 19          134633                          NA <NA>             NEW             
-    ## 20          134634                       65097 Clamped to pipe  NEW             
+    ##  1          134665                       76582 "Clamped to pip… NEW             
+    ##  2          134666                          NA  <NA>            NEW             
+    ##  3          134667                          NA  <NA>            NEW             
+    ##  4          134668                       64678 "4\" BTOC"       NEW             
+    ##  5          134669                          NA  <NA>            NEW             
+    ##  6          134670                          NA  <NA>            NEW             
+    ##  7          134671                       64679 "Unknown"        NEW             
+    ##  8          134672                       59733  <NA>            NEW             
+    ##  9          134673                       64672 "4\" BTOC"       NEW             
+    ## 10          134674                          NA  <NA>            NEW             
+    ## 11          134675                          NA  <NA>            NEW             
+    ## 12          134676                       64668 "4\" BTOC"       NEW             
+    ## 13          134677                          NA  <NA>            NEW             
+    ## 14          134678                       64682 "5\" BTOC"       NEW             
+    ## 15          134679                       64681 "4\" BTOC"       NEW             
+    ## 16          134680                          NA  <NA>            NEW             
+    ## 17          134681                       64675 "4\" BTOC"       NEW             
+    ## 18          134682                       64680 "5\" BTOC"       NEW             
+    ## 19          134683                       64684 "6\" BTOC"       NEW             
+    ## 20          134684                       64671 "Unknown"        NEW             
     ## # … with 110 more variables: well_class_code <chr>, well_subclass <chr>,
     ## #   licenced_status_code <chr>, intended_water_use_code <chr>,
     ## #   observation_well_number <chr>, obs_well_status_code <chr>,
