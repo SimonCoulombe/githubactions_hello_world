@@ -126,26 +126,26 @@ recent_wells %>%
     ## # A tibble: 20 × 114
     ##    well_tag_number identification_plate_number well_identifica… well_status_code
     ##              <dbl>                       <dbl> <chr>            <chr>           
-    ##  1          134665                       76582 "Clamped to pip… NEW             
-    ##  2          134666                          NA  <NA>            NEW             
-    ##  3          134667                          NA  <NA>            NEW             
-    ##  4          134668                       64678 "4\" BTOC"       NEW             
-    ##  5          134669                          NA  <NA>            NEW             
-    ##  6          134670                          NA  <NA>            NEW             
-    ##  7          134671                       64679 "Unknown"        NEW             
-    ##  8          134672                       59733  <NA>            NEW             
-    ##  9          134673                       64672 "4\" BTOC"       NEW             
-    ## 10          134674                          NA  <NA>            NEW             
-    ## 11          134675                          NA  <NA>            NEW             
-    ## 12          134676                       64668 "4\" BTOC"       NEW             
-    ## 13          134677                          NA  <NA>            NEW             
-    ## 14          134678                       64682 "5\" BTOC"       NEW             
-    ## 15          134679                       64681 "4\" BTOC"       NEW             
-    ## 16          134680                          NA  <NA>            NEW             
-    ## 17          134681                       64675 "4\" BTOC"       NEW             
-    ## 18          134682                       64680 "5\" BTOC"       NEW             
-    ## 19          134683                       64684 "6\" BTOC"       NEW             
-    ## 20          134684                       64671 "Unknown"        NEW             
+    ##  1          134701                       72547 Stick-up         NEW             
+    ##  2          134702                       72545 Stick-up         NEW             
+    ##  3          134703                       72544 Stick-up         NEW             
+    ##  4          134704                       72543 Stick-up         NEW             
+    ##  5          134705                       72550 Stick-up         NEW             
+    ##  6          134706                       72451 Stick-up         NEW             
+    ##  7          134707                          NA <NA>             NEW             
+    ##  8          134708                          NA <NA>             NEW             
+    ##  9          134709                       37794 <NA>             NEW             
+    ## 10          134710                         316 <NA>             NEW             
+    ## 11          134711                       52075 Unknown          NEW             
+    ## 12          134712                       27473 <NA>             NEW             
+    ## 13          134713                       75663 <NA>             NEW             
+    ## 14          134714                          NA <NA>             NEW             
+    ## 15          134715                       75664 <NA>             NEW             
+    ## 16          134716                          NA <NA>             NEW             
+    ## 17          134717                          NA <NA>             NEW             
+    ## 18          134718                          NA <NA>             NEW             
+    ## 19          134719                          NA <NA>             NEW             
+    ## 20          134720                          NA <NA>             NEW             
     ## # … with 110 more variables: well_class_code <chr>, well_subclass <chr>,
     ## #   licenced_status_code <chr>, intended_water_use_code <chr>,
     ## #   observation_well_number <chr>, obs_well_status_code <chr>,
