@@ -126,26 +126,26 @@ recent_wells %>%
     ## # A tibble: 20 × 114
     ##    well_tag_number identification_plate_number well_identifica… well_status_code
     ##              <dbl>                       <dbl> <chr>            <chr>           
-    ##  1          136293                       70533 Well Head        NEW             
-    ##  2          136294                       70534 Well Head        NEW             
-    ##  3          136295                       70535 Well Head        NEW             
-    ##  4          136296                       70536 Well Head        NEW             
-    ##  5          136297                       70537 Well Head        NEW             
-    ##  6          136298                       76405 Clamped to pipe  NEW             
-    ##  7          136299                       70538 Well Head        NEW             
-    ##  8          136300                       70530 Well Head        NEW             
-    ##  9          136301                       76959 Clamped to pipe  NEW             
-    ## 10          136302                       76125 Clamped to pipe  NEW             
-    ## 11          136303                          NA <NA>             CLOSURE         
-    ## 12          136304                       76124 Clamped to pipe  NEW             
-    ## 13          136305                          NA <NA>             CLOSURE         
-    ## 14          136306                       65878 <NA>             NEW             
-    ## 15          136307                          NA <NA>             CLOSURE         
-    ## 16          136308                          NA <NA>             CLOSURE         
-    ## 17          136309                       76411 On casing        NEW             
-    ## 18          136310                       60000 Well Casing      ALTERATION      
-    ## 19          136311                       76128 Clamped to pipe  NEW             
-    ## 20          136312                       74433 STRAPPED TO CAS… NEW             
+    ##  1          136299                       70538 Well Head        NEW             
+    ##  2          136300                       70530 Well Head        NEW             
+    ##  3          136301                       76959 Clamped to pipe  NEW             
+    ##  4          136302                       76125 Clamped to pipe  NEW             
+    ##  5          136303                          NA <NA>             CLOSURE         
+    ##  6          136304                       76124 Clamped to pipe  NEW             
+    ##  7          136305                          NA <NA>             CLOSURE         
+    ##  8          136306                       65878 <NA>             NEW             
+    ##  9          136307                          NA <NA>             CLOSURE         
+    ## 10          136308                          NA <NA>             CLOSURE         
+    ## 11          136309                       76411 On casing        NEW             
+    ## 12          136310                       44635 Well Casing      ALTERATION      
+    ## 13          136311                       76128 Clamped to pipe  NEW             
+    ## 14          136312                       74433 STRAPPED TO CAS… NEW             
+    ## 15          136313                          NA <NA>             NEW             
+    ## 16          136314                       77763 <NA>             NEW             
+    ## 17          136315                       77764 <NA>             NEW             
+    ## 18          136316                       77765 <NA>             NEW             
+    ## 19          136317                       77766 <NA>             NEW             
+    ## 20          136318                       77769 <NA>             NEW             
     ## # … with 110 more variables: well_class_code <chr>, well_subclass <chr>,
     ## #   licenced_status_code <chr>, intended_water_use_code <chr>,
     ## #   observation_well_number <chr>, obs_well_status_code <chr>,
