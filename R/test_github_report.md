@@ -126,26 +126,26 @@ recent_wells %>%
     ## # A tibble: 20 × 114
     ##    well_tag_number identification_plate_number well_identifica… well_status_code
     ##              <dbl>                       <dbl> <chr>            <chr>           
-    ##  1          136754                       72094 STRAPPED TO CAS… NEW             
-    ##  2          136755                       78130 <NA>             NEW             
-    ##  3          136756                          NA <NA>             CLOSURE         
-    ##  4          136757                       65317 Hose Clamped to… NEW             
-    ##  5          136758                       65316 Hose Clamped to… NEW             
-    ##  6          136759                       65349 Unknown          NEW             
-    ##  7          136760                       65347 SS Strapped to … NEW             
-    ##  8          136761                       65348 SS Strapped to … NEW             
-    ##  9          136762                       39028 SS Strapped to … NEW             
-    ## 10          136763                       65308 SS Strapped to … NEW             
-    ## 11          136764                       37203 SS Strapped to … NEW             
-    ## 12          136765                       78134 <NA>             NEW             
-    ## 13          136766                       65306 SS Strapped to … NEW             
-    ## 14          136767                       37204 SS Strapped to … NEW             
-    ## 15          136768                       37202 SS Strapped to … NEW             
-    ## 16          136769                       37201 SS Strapped to … NEW             
-    ## 17          136770                       37209 Hose clamped to… NEW             
-    ## 18          136771                       65302 Hose Clamped to… NEW             
-    ## 19          136772                          NA <NA>             NEW             
-    ## 20          136773                          NA <NA>             NEW             
+    ##  1          136765                       78134 <NA>             NEW             
+    ##  2          136766                       65306 SS Strapped to … NEW             
+    ##  3          136767                       37204 SS Strapped to … NEW             
+    ##  4          136768                       37202 SS Strapped to … NEW             
+    ##  5          136769                       37201 SS Strapped to … NEW             
+    ##  6          136770                       37209 Hose clamped to… NEW             
+    ##  7          136771                       65302 Hose Clamped to… NEW             
+    ##  8          136772                          NA <NA>             NEW             
+    ##  9          136773                          NA <NA>             NEW             
+    ## 10          136774                       37207 Hose Clamped to… NEW             
+    ## 11          136775                       65314 Hose Clamped to… NEW             
+    ## 12          136776                       37208 Hose Clamped to… NEW             
+    ## 13          136777                       65313 Hose Clamped to… NEW             
+    ## 14          136778                       68615 Casing Stickup   NEW             
+    ## 15          136779                       68614 Casing Stickup   NEW             
+    ## 16          136780                          NA <NA>             NEW             
+    ## 17          136781                       68613 Casing Stickup   NEW             
+    ## 18          136782                       76114 Clamped to pipe  NEW             
+    ## 19          136783                       78136 <NA>             NEW             
+    ## 20          136784                       13793 <NA>             NEW             
     ## # … with 110 more variables: well_class_code <chr>, well_subclass <chr>,
     ## #   licenced_status_code <chr>, intended_water_use_code <chr>,
     ## #   observation_well_number <chr>, obs_well_status_code <chr>,
