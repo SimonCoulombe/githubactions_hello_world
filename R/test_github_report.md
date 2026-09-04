@@ -126,26 +126,26 @@ recent_wells %>%
     ## # A tibble: 20 × 114
     ##    well_tag_number identification_plate_number well_identifica… well_status_code
     ##              <dbl>                       <dbl> <chr>            <chr>           
-    ##  1          136891                       78206 To be Installed  NEW             
-    ##  2          136892                       60168 Side of Casing   NEW             
-    ##  3          136893                       60188 Side of Casing   NEW             
-    ##  4          136894                       78212 <NA>             NEW             
-    ##  5          136895                       72774 clamped to casi… NEW             
-    ##  6          136896                          NA <NA>             NEW             
-    ##  7          136897                       72800 clamped to casi… NEW             
-    ##  8          136898                       72923 clamped to casi… NEW             
-    ##  9          136899                       78215 To be installed  NEW             
-    ## 10          136900                       78216 To be installed  NEW             
-    ## 11          136901                       72763 clamped to casi… NEW             
-    ## 12          136902                       72848 clamped to casi… NEW             
-    ## 13          136903                       72829 clamped to casi… NEW             
-    ## 14          136904                       72783 clamped to casi… NEW             
-    ## 15          136905                       72850 clamped to casi… NEW             
-    ## 16          136906                       78220 <NA>             NEW             
-    ## 17          136907                       69335 <NA>             NEW             
-    ## 18          136908                       72846 clamped to casi… NEW             
-    ## 19          136909                       72875 clamped to casi… NEW             
-    ## 20          136910                          NA <NA>             NEW             
+    ##  1          136903                       72829 clamped to casi… NEW             
+    ##  2          136904                       72783 clamped to casi… NEW             
+    ##  3          136905                       72850 clamped to casi… NEW             
+    ##  4          136906                       78220 <NA>             NEW             
+    ##  5          136907                       69335 <NA>             NEW             
+    ##  6          136908                       72846 clamped to casi… NEW             
+    ##  7          136909                       72875 clamped to casi… NEW             
+    ##  8          136910                          NA <NA>             NEW             
+    ##  9          136911                       78224 To be installed  NEW             
+    ## 10          136912                       78226 <NA>             NEW             
+    ## 11          136913                       72845 clamped to casi… NEW             
+    ## 12          136914                       72788 clamped to casi… NEW             
+    ## 13          136915                       72796 clamped to casi… NEW             
+    ## 14          136916                       72822 clamped to casi… NEW             
+    ## 15          136917                       72792 calmped to casi… NEW             
+    ## 16          136918                       13612 <NA>             NEW             
+    ## 17          136919                       78230 <NA>             NEW             
+    ## 18          136920                       78236 To be Installed  NEW             
+    ## 19          136921                       70723 Casing           NEW             
+    ## 20          136922                       70728 Casing           NEW             
     ## # … with 110 more variables: well_class_code <chr>, well_subclass <chr>,
     ## #   licenced_status_code <chr>, intended_water_use_code <chr>,
     ## #   observation_well_number <chr>, obs_well_status_code <chr>,
